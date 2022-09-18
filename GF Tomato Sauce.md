@@ -20,7 +20,7 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 - salt
 - fresh ground pepper
 
-## Aaron's Instructions
+## Instructions
 
 *Preparation*
 - Wash the tomatoes.
@@ -34,18 +34,17 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 1. Crush the garlic. Finely chop it.
 2. Lightly coat the surface of the skillet with olive oil. Place on stove at medium heat.
 3. Once sizzling becomes audible, throw garlic into the skillet. Circulate the olive oil around the garlic so as to give all the bits a light coating.
-4. Continue to cook on medium until garlic starts to brown.
-5. Pour in cherry tomatoes. Circulate oil so as to give them a light coating. Turn heat up to high.
-6. Add red chili pepper flakes.
+4. Continue to cook on medium before garlic starts to brown.
+5. Pour cherry tomatoes into skillet. Circulate oil so as to give them a light coating. Turn heat up to high.
+6. Add red chili pepper flakes, to taste. The heat they deliver will be rather dull, so don't be too shy with them.
 7. Cook tomatoes until they start to blister.
 8. Once the tomatoes are blistered and maybe a bit charred, add the entirety of the tomato puree to the pan. Stir thouroughly. Bring heat down to low.
-9. Chop the basil coarsely. Add it to the skillet.
-10. Add salt and ground pepper to taste.
-11. Put the separate pan on the stove and place on medium heat. Place a small slice of butter in the center. Add the pine nuts, circulating them often so as to coat them in the melted butter. Do not let them turn too brown-- should only be a couple minutes on medium heat. Remove them from heat before they start to turn dark brown.
-12. Let the skillet with tomato contents cook on low until uniformly bubbling accross the surface.
-13. Add all the parmesean cheese to the skillet. Stir thoroughly.
+9. Chop the basil coarsely. Add it to the skillet. Stir.
+10. Add salt and ground pepper to taste, stirring as you go.
+11. Put the separate pan on the stove and place on medium heat. Place a small slice of butter in the center. Add the pine nuts, circulating them often so as to coat them in the melted butter. They should only be a couple minutes on medium heat. Do not let them turn too brown. Remove them from heat before they start to turn dark brown.
+12. Let the skillet with tomato contents cook on low until uniformly bubbling across the surface.
+13. Add all the parmesean cheese to the skillet. Stir thoroughly. It should melt right in.
 14. Remove the sauce from heat. Add the pine nuts to the sauce. After stirring thoroughly, the sauce is ready to serve.
-
 
 ## Marissa's Original Instructions
 
