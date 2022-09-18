@@ -6,6 +6,7 @@
 - tomato puree 750g
 - cherry tomatoes 300g
 - pine nuts 50g
+- parmesean cheese 25g
 - olive oil
 - red pepper flakes
 - salt
