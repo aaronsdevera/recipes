@@ -4,6 +4,16 @@ My friend Marissa made this for our group of friends while on vacation. I love t
 
 This sauce does best in a pasta, or for serving with a meat like chicken parm or meatballs. It should not be used for pizza.
 
+----
+
+## Images
+
+<img align="center" src="images/GF%20Tomato%20Sauce%201.png" style="width:32.5%"/>
+<img align="center" src="images/GF%20Tomato%20Sauce%202.png" style="width:32.5%"/>
+<img align="center" src="images/GF%20Tomato%20Sauce%203.png" style="width:32.5%"/>
+
+----
+
 ## Ingredients
 
 You're going to want to roughly match the proportion of tomato puree to cherry tomatoes at a 2:1 ratio. There should be 1 clove of garlic for every 100g of tomato puree. The amount of pine nuts and parmesean are somewhat preferential. One can definitely go "too far" with pine nuts, whereas it is difficult to have "too much" parmesean. Due to the insane price of pine nuts one might want to skip them altogether. Good parmesean should have a degree of nuttiness anyways. If that is the case, go extra on the parmesean.
@@ -19,6 +29,8 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 - red pepper flakes
 - salt
 - fresh ground pepper
+
+----
 
 ## Instructions
 
@@ -47,6 +59,8 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 13. Let the skillet with tomato contents cook on low until uniformly bubbling across the surface.
 14. Add all the parmesean cheese to the skillet. Stir thoroughly. It should melt right in.
 15. Remove the sauce from heat. Add the pine nuts to the sauce. After stirring thoroughly, the sauce is ready to serve.
+
+----
 
 ## Marissa's Original Instructions
 
