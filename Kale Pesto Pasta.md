@@ -1,6 +1,13 @@
 # Kale<sup>[[1]](#ftnt1)</sup> Pesto Pasta
 
----------------------------------------------
+----
+
+## Images
+
+<img align="center" src="images/Kale%20Pesto%20Pasta%201.png" style="width:48%"/>
+<img align="center" src="images/Kale%20Pesto%20Pasta%202.png" style="width:48%"/>
+
+----
 
 ## Ingredients:
 
@@ -19,10 +26,14 @@
 *   Olive oil. 1 tablespoon.
 *   Water. The sweet spot is somewhere between ¼ and ⅔ cups but just have some on hand and add according to the consistency.
 
+----
+
 ## Equipment:
 *   Pot of water to boil
 *   Blender or large food processor
 *   Spatula
+
+----
 
 ## Instructions
 *   Set a pot of water on a burner and boil it.
@@ -36,5 +47,6 @@
 *   Start blending. Add water intermittently until the consistency is that of cold cream cheese.
 *   Move blender contents to bowl. With a spatula, mix in salt, pepper, and lemon.
 
----------------------------------------------
+---- 
+
 [[1]](#ftnt_ref1) You can use pretty much any vegetable in this recipe. The key thing is creating a consistency that facilitates consumption with a pasta so the pesto coats each piece of pasta.
