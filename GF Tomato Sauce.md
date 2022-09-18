@@ -1,12 +1,12 @@
 # Tomato Sauce
 
 ## Ingredients
-- garlic cloves 8
-- fresh basil 10g
-- tomato puree 750g
-- cherry tomatoes 300g
-- pine nuts 50g
-- parmesean cheese 25g
+- garlic - 8 cloves
+- fresh basil - 10g
+- tomato puree - 750g
+- cherry tomatoes - 300g
+- pine nuts - 50g
+- parmesean cheese - 25g
 - olive oil
 - red pepper flakes
 - salt
