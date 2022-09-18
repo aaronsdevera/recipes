@@ -27,6 +27,7 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 - Wash the basil, and pluck the leaves from the stems.
 - Prepare a large, open **skillet**.
 - Prepare a small **pan** for pine nuts.
+- Prepare a **slotted spatula**, the metal kind you might use on the grill.
 - Measure out ingredients with a **scale** or other tool.
 - Turn on the range/stove fan to prepare for oil/frying.
 
@@ -41,10 +42,11 @@ You're going to want to roughly match the proportion of tomato puree to cherry t
 8. Once the tomatoes are blistered and maybe a bit charred, add the entirety of the tomato puree to the pan. Stir thouroughly. Bring heat down to low.
 9. Chop the basil coarsely. Add it to the skillet. Stir.
 10. Add salt and ground pepper to taste, stirring as you go.
-11. Put the separate pan on the stove and place on medium heat. Place a small slice of butter in the center. Add the pine nuts, circulating them often so as to coat them in the melted butter. They should only be a couple minutes on medium heat. Do not let them turn too brown. Remove them from heat before they start to turn dark brown.
-12. Let the skillet with tomato contents cook on low until uniformly bubbling across the surface.
-13. Add all the parmesean cheese to the skillet. Stir thoroughly. It should melt right in.
-14. Remove the sauce from heat. Add the pine nuts to the sauce. After stirring thoroughly, the sauce is ready to serve.
+11. With the slotted spatula, softly crush the cherry tomatoes in the sauce.
+12. Put the separate pan on the stove and place on medium heat. Place a small slice of butter in the center. Add the pine nuts, circulating them often so as to coat them in the melted butter. They should only be a couple minutes on medium heat. Do not let them turn too brown. Remove them from heat before they start to turn dark brown.
+13. Let the skillet with tomato contents cook on low until uniformly bubbling across the surface.
+14. Add all the parmesean cheese to the skillet. Stir thoroughly. It should melt right in.
+15. Remove the sauce from heat. Add the pine nuts to the sauce. After stirring thoroughly, the sauce is ready to serve.
 
 ## Marissa's Original Instructions
 
